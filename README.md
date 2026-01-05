@@ -52,7 +52,7 @@ The pretrained weights from [HERE](https://1drv.ms/f/c/ddc9a692922cce3f/IgDeGozS
 ### Visual Results
 
 ![arch](Fig/A_B_Q_Fig.jpg)
-![arch](N_Fig.jpg)
+![arch](Fig/N_Fig.jpg)
 
 
 
